@@ -132,8 +132,8 @@ This project can be used for:
 
 ## 👤 Author
 
-**Bibek Kumar Shah**
-B.Tech Student | Aspiring Software Engineer
+**Riya shah**
+BSC computer science | Aspiring Software Engineer
 
 ---
 
